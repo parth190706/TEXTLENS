@@ -1,0 +1,15 @@
+Global renewable energy capacity reached a record 3,372 gigawatts in 2023, according to the International Renewable Energy Agency (IRENA). This represents an increase of 295 gigawatts compared to the previous year.
+
+Solar power accounted for the largest share of new capacity additions, with 346 gigawatts of new solar installations globally. Wind energy contributed an additional 116 gigawatts of new capacity.
+
+Despite this growth, fossil fuels still account for approximately 60% of global electricity generation. Scientists warn that current growth rates in renewables are insufficient to meet climate targets set under the Paris Agreement.
+
+The International Energy Agency (IEA) stated that renewable energy capacity needs to triple by 2030 to limit global warming to 1.5 degrees Celsius. However, the IEA also noted that investment in clean energy reached $1.7 trillion in 2023, which is double the investment in fossil fuels.
+
+Several countries are leading the transition. China installed more than half of all new solar capacity globally in 2023. The United States passed the Inflation Reduction Act in 2022, which allocated $369 billion toward clean energy investments.
+
+India announced a target of 500 gigawatts of renewable energy capacity by 2030. As of 2023, India had achieved 179 gigawatts of renewable capacity, indicating significant further growth is required.
+
+Critics argue that the intermittent nature of solar and wind energy creates grid stability challenges. Energy storage solutions, particularly large-scale battery systems, are being deployed to address this problem.
+
+The cost of lithium-ion battery storage fell by 89% between 2013 and 2023, making storage increasingly economically viable. This cost reduction is expected to accelerate the adoption of renewable energy systems worldwide.

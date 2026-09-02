@@ -1,0 +1,13 @@
+Remote Work and Employee Productivity Report
+
+In January 2024, TechNova Solutions introduced a remote work policy for 600 employees across its offices in Pune, Mumbai, and Bengaluru. The policy allowed employees to work from home for up to four days each week.
+
+According to the company's internal survey conducted in June 2024, overall employee productivity increased by 18% after the introduction of remote work. The engineering department reported the largest improvement, with productivity increasing by 24%.
+
+However, the survey also identified several challenges. Approximately 32% of employees reported that communication with their team members had become more difficult. Employees working across different time zones experienced the greatest communication difficulties.
+
+To address this problem, TechNova Solutions introduced mandatory weekly team meetings in September 2024. The company also introduced a shared project-management system to help employees track tasks and deadlines.
+
+By December 2024, the company reported that communication-related complaints had decreased by 40%. Employee satisfaction also increased from 72% in June to 81% in December.
+
+The report concludes that remote work had a positive overall effect on productivity and employee satisfaction, although communication remained a significant challenge during the initial implementation period.
